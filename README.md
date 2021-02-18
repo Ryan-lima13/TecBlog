@@ -1,6 +1,8 @@
 # TecBlog
 site para empresa de Tecnologia
 
+![site](https://user-images.githubusercontent.com/79115469/108431780-1c0cfd80-7222-11eb-8f96-d823ef7d4aee.PNG)
+
 ## Tecnologias usadas:
 * HTML
 * CSS
