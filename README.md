@@ -1,6 +1,11 @@
 # TecBlog
 site para empresa de Tecnologia
 
+## Tecnologias usadas:
+* HTML
+* CSS
+
+
 
 MIT License
 
